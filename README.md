@@ -1,7 +1,3 @@
-# Description #
+## hackerrank-py
 
-Solutions of python coding challenges on HackerRank.<br><br>
-
-## Challenges
-
-- [Python](https://www.hackerrank.com/domains/python)
+Solutions of [python](https://www.hackerrank.com/domains/python) coding challenges on HackerRank.
