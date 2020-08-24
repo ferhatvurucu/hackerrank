@@ -7,4 +7,4 @@ No rounding or formatting is necessary.
 '''
 a = int(input())
 b = int(input())
-print((a//b),(a/b), sep='\n')
+print((a//b), (a/b), sep='\n')
