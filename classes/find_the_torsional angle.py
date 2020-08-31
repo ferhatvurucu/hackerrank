@@ -1,7 +1,7 @@
 '''
 You are given four points A, B, C and D in a 3-dimensional Cartesian coordinate system.
 
-you are required to print the angle between the plane made by the points A, B, C and B, C, D in degrees(not radians). Let the angle be PHI.
+You are required to print the angle between the plane made by the points A, B, C and B, C, D in degrees(not radians). Let the angle be PHI.
 '''
 import math
 
